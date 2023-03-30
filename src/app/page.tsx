@@ -3,7 +3,9 @@ import getPostMetadata from "../../components/getPostMetadata";
 import PostPreview from "../../components/PostPreview";
 
 const HomePage: FC = () => {
-  const postMetadata = getPostMetadata();
+  const postMetadata = getPostMetadata().sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
   const postPreviews = postMetadata.map((post) => (
     <PostPreview key={post.slug} {...post} />
   ));
