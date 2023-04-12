@@ -22,7 +22,7 @@ export default function RootLayout({
 
   const footer = (
     <footer className="border-t text-sm border-slate-400 mt-6 py-6 text-center text-slate-400">
-      <p>© 2023 Developed by Jeet 💻</p>
+      <p>💻 Built by Jeet</p>
     </footer>
   );
 
