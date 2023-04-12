@@ -30,7 +30,7 @@ export default function RootLayout({
     <html lang="en">
       <head />
 
-      <body>
+      <body className="">
         <div className="mx-auto max-w-2xl px-6">
           {header}
           {children}
