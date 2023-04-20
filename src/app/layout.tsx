@@ -13,7 +13,13 @@ export default function RootLayout({
   const header = (
     <header>
       <Link href="/">
-        <div className="flex flex-row z-10 shadow-sm text-center gap-1 items-center p-4 border-b border-emerald-600 ">
+        <div className="flex justify-between z-10 shadow-sm text-center  items-center p-4 border-b border-lime-600  ">
+          <div className="flex gap-1">
+            <p className="text-slate-400 hover:underline hover:decoration-lime-400 text-sm ">
+              @<b>Jeet</b>Chaudhuri{" "}
+            </p>{" "}
+            <VscVerifiedFilled className="text-lime-500 " />
+          </div>
           <Image
             className="block rounded-full"
             height="30"
@@ -21,17 +27,13 @@ export default function RootLayout({
             alt="Avatar"
             src="/images/header.jpg"
           />{" "}
-          <p className="text-slate-400  hover:text-slate-300 text-sm ">
-            @<b>Jeet</b>Chaudhuri{" "}
-          </p>{" "}
-          <VscVerifiedFilled className="text-emerald-500 " />
         </div>
       </Link>
     </header>
   );
 
   const footer = (
-    <div className="border-t border-emerald-600 text-center p-4 text-slate-400 text-xs mt-8">
+    <div className="border-t border-lime-600 text-center p-4 text-slate-400 text-xs mt-8">
       <p>
         🧑‍💻 Built by Jeet. Source Code on{" "}
         <a
