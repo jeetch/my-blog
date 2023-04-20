@@ -1,7 +1,7 @@
 import Link from "next/link";
 import "./globals.css";
 import Image from "next/image";
-import { VscVerifiedFilled } from "react-icons/vsc";
+import { VscGithub, VscTwitter, VscVerifiedFilled } from "react-icons/vsc";
 import { Inter } from "next/font/google";
 import Background from "../../components/Background";
 const font = Inter({ subsets: ["latin"] });
@@ -13,23 +13,33 @@ export default function RootLayout({
 }) {
   const header = (
     <header>
-      <Link href="/">
-        <div className="flex justify-between z-10 shadow-sm text-center  items-center p-4  ">
-          <div className="flex">
+      <div className="flex justify-between z-10 shadow-sm text-center  items-center p-4  ">
+        <div className="flex">
+          <Link href="/">
             <p className="text-slate-400 hover:decoration-8 hover:underline hover:underline-offset-8 hover:decoration-lime-400 text-sm ">
               <b>Jeet</b>Chaudhuri{" "}
             </p>{" "}
-            {/* <VscVerifiedFilled className="text-lime-500 " /> */}
-          </div>
-          <Image
-            className="block rounded-full hover:scale-105 transition"
-            height="30"
-            width="30"
-            alt="Avatar"
-            src="/images/header.jpg"
-          />{" "}
+          </Link>
+          {/* <VscVerifiedFilled className="text-lime-500 " /> */}
         </div>
-      </Link>
+        <div className="flex items-center gap-4">
+          <Link href="https://twitter.com/jeetchaudhuri">
+            <VscTwitter className="h-[20px] w-[20px] text-slate-600 hover:text-lime-400" />
+          </Link>
+          <Link href="https://github.com/jeetch">
+            <VscGithub className="h-[20px] w-[20px] text-slate-600 hover:text-lime-400" />
+          </Link>
+          <Link href="/">
+            <Image
+              className="block rounded-full hover:border-4 hover:border-lime-400 transition"
+              height="30"
+              width="30"
+              alt="Avatar"
+              src="/images/header.jpg"
+            />
+          </Link>
+        </div>
+      </div>
     </header>
   );
 
