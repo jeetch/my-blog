@@ -10,9 +10,9 @@ const PostPreview = (props: PostMetadata) => {
       </a>
 
       <p className="text-sm text-slate-200">{props.subtitle}</p>
-      <p className="align-baseline text-xs text-slate-400 italic mt-2">
+      {/* <p className="align-baseline text-xs text-slate-400 italic mt-2">
         {props.date} . 2 min read
-      </p>
+      </p> */}
     </div>
   );
 };
