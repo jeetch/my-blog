@@ -10,8 +10,26 @@ const HomePage: FC = () => {
     <PostPreview key={post.slug} {...post} />
   ));
 
+  const banner = (
+    <header>
+      <div className=" w-full z-10 shadow-sm text-center  p-8 ">
+        <h2 className="text-3xl text-white font-bold">Hi, I'm Jeet 👋 </h2>
+
+        <p className="text-slate-400 text-sm pt-2 mx-16">
+          I try to build cool stuff focused on the intersection between
+          engineering and design
+        </p>
+      </div>
+    </header>
+  );
+
   return (
-    <div className=" grid grid-cols-1 md:grid-cols-2 gap-4">{postPreviews}</div>
+    <>
+      {banner}
+      <div className=" grid grid-cols-1 md:grid-cols-2 gap-4">
+        {postPreviews}
+      </div>
+    </>
   );
 };
 
