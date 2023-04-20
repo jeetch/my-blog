@@ -14,24 +14,24 @@ module.exports = {
       keyframes: {
         blob: {
           "0%": {
-            transform: "translate(0, 0) scale(1)",
+            transform: "scale(1)",
           },
           "25%": {
-            transform: "translate(0px, -25px) scale(1.1)",
+            transform: "scale(1.5)",
           },
           "50%": {
-            transform: "translate(-10px, -20px) scale(1.05)",
+            transform: "scale(0.8)",
           },
           "75%": {
-            transform: "translate(-10px, 10px) scale(0.95)",
+            transform: "scale(1.2)",
           },
           "100%": {
-            transform: "translate(0, 0) scale(1)",
+            transform: "scale(1)",
           }
         },
       },
       animation: {
-        blob: "blob 5s infinite",
+        blob: "blob 7s infinite",
       },
     },
   },
