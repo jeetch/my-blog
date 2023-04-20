@@ -2,6 +2,8 @@ import Link from "next/link";
 import "./globals.css";
 import Image from "next/image";
 import { VscVerifiedFilled } from "react-icons/vsc";
+import { Inter } from "next/font/google";
+const font = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({
   children,
@@ -29,16 +31,9 @@ export default function RootLayout({
   );
 
   const footer = (
-    <footer className="border-t text-sm border-emerald-600 mt-6 py-6 text-center font-light text-slate-400">
+    <div className="border-t border-emerald-600 text-center p-4 text-slate-400 text-sm mt-8">
       <p>
-        🧑‍💻 Built by{" "}
-        <a
-          href="https://www.jeetchaudhuri.com/"
-          className="font-medium underline underline-offset-4"
-        >
-          jeet
-        </a>
-        , source code is available on{" "}
+        🧑‍💻 Built by Jeet. Source Code on{" "}
         <a
           href="https://github.com/jeetch/my-blog"
           className="font-medium underline underline-offset-4"
@@ -46,14 +41,14 @@ export default function RootLayout({
           GitHub
         </a>
       </p>
-    </footer>
+    </div>
   );
 
   return (
     <html lang="en">
       <head />
 
-      <body className="bg-slate-800 ">
+      <body className={` bg-slate-800 ${font.className}`}>
         <div className="mx-auto max-w-2xl px-6">
           {header}
           {children}
