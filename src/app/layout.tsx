@@ -31,7 +31,7 @@ export default function RootLayout({
   );
 
   const footer = (
-    <div className="border-t border-emerald-600 text-center p-4 text-slate-400 text-sm mt-8">
+    <div className="border-t border-emerald-600 text-center p-4 text-slate-400 text-xs mt-8">
       <p>
         🧑‍💻 Built by Jeet. Source Code on{" "}
         <a
