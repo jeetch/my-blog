@@ -22,7 +22,7 @@ export default function RootLayout({
             src="/images/header.jpg"
           />{" "}
           <p className="text-slate-400  hover:text-slate-300 text-sm ">
-            <b>@Jeet</b>Chaudhuri{" "}
+            @<b>Jeet</b>Chaudhuri{" "}
           </p>{" "}
           <VscVerifiedFilled className="text-emerald-500 " />
         </div>
