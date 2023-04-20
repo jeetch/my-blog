@@ -48,7 +48,7 @@ export default function RootLayout({
     <html lang="en">
       <head />
 
-      <body className={` bg-slate-800 ${font.className}`}>
+      <body className={` bg-neutral-900 ${font.className}`}>
         <div className="mx-auto max-w-2xl px-6">
           {header}
           {children}
