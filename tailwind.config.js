@@ -14,19 +14,19 @@ module.exports = {
       keyframes: {
         blob: {
           "0%": {
-            transform: "scale(1)",
+            transform: "translate(0, 0) scale(1)",
           },
           "25%": {
-            transform: "scale(1.5)",
+            transform: "translate(0px, -25px) scale(1.1)",
           },
           "50%": {
-            transform: "scale(0.8)",
+            transform: "translate(-10px, -20px) scale(1.05)",
           },
           "75%": {
-            transform: "scale(1.2)",
+            transform: "translate(-10px, 10px) scale(0.95)",
           },
           "100%": {
-            transform: "scale(1)",
+            transform: "translate(0, 0) scale(1)",
           }
         },
       },
