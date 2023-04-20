@@ -31,7 +31,7 @@ module.exports = {
         },
       },
       animation: {
-        blob: "blob 3s infinite",
+        blob: "blob 5s infinite",
       },
     },
   },
