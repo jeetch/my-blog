@@ -15,7 +15,7 @@ export default function RootLayout({
       <Link href="/">
         <div className="flex flex-row z-10 shadow-sm text-center gap-1 items-center p-4 border-b border-emerald-600 ">
           <Image
-            className="hidden md:block rounded-full"
+            className="block rounded-full"
             height="30"
             width="30"
             alt="Avatar"
