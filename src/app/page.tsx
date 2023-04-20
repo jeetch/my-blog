@@ -1,6 +1,7 @@
 import { FC } from "react";
 import getPostMetadata from "../../components/getPostMetadata";
 import PostPreview from "../../components/PostPreview";
+import Background from "../../components/Background";
 
 const HomePage: FC = () => {
   const postMetadata = getPostMetadata().sort(
@@ -12,9 +13,10 @@ const HomePage: FC = () => {
 
   const banner = (
     <header>
-      <div className="flex flex-col gap-2 w-full z-10 shadow-sm text-left  py-12 px-4 sm:px-12 ">
+      <div className="relative flex flex-col gap-2 w-full z-10 shadow-sm text-left  py-12 px-4 sm:px-12 ">
+        <Background />
         <h2 className="text-md text-lime-400 ">Hi, I'm Jeet 👋 </h2>
-        <h2 className="text-3xl text-white font-bold">
+        <h2 className="text-3xl text-white font-bold shadow-lime-400">
           I like building websites.{" "}
         </h2>
 

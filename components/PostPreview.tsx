@@ -9,8 +9,8 @@ const PostPreview = (props: PostMetadata) => {
         </h4>
       </a>
 
-      <p className="text-sm text-neutral-500">{props.subtitle}</p>
-      <p className="align-baseline text-xs text-lime-700 mt-2">{props.date}</p>
+      <p className="text-sm text-neutral-300">{props.subtitle}</p>
+      <p className="align-baseline text-xs text-lime-500 mt-2">{props.date}</p>
     </div>
   );
 };

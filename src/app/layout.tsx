@@ -3,6 +3,7 @@ import "./globals.css";
 import Image from "next/image";
 import { VscVerifiedFilled } from "react-icons/vsc";
 import { Inter } from "next/font/google";
+import Background from "../../components/Background";
 const font = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({
@@ -21,7 +22,7 @@ export default function RootLayout({
             {/* <VscVerifiedFilled className="text-lime-500 " /> */}
           </div>
           <Image
-            className="block rounded-full"
+            className="block rounded-full hover:scale-105 transition"
             height="30"
             width="30"
             alt="Avatar"
@@ -51,7 +52,7 @@ export default function RootLayout({
       <head />
 
       <body className={` bg-neutral-900 ${font.className}`}>
-        <div className="mx-auto max-w-2xl px-6">
+        <div className="z-10  mx-auto max-w-2xl px-6">
           {header}
           {children}
           {footer}
