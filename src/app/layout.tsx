@@ -13,12 +13,12 @@ export default function RootLayout({
   const header = (
     <header>
       <Link href="/">
-        <div className="flex justify-between z-10 shadow-sm text-center  items-center p-4 border-b border-lime-600  ">
-          <div className="flex gap-1">
-            <p className="text-slate-400 hover:underline hover:decoration-lime-400 text-sm ">
-              @<b>Jeet</b>Chaudhuri{" "}
+        <div className="flex justify-between z-10 shadow-sm text-center  items-center p-4  ">
+          <div className="flex">
+            <p className="text-slate-400 hover:decoration-8 hover:underline hover:underline-offset-8 hover:decoration-lime-400 text-sm ">
+              <b>Jeet</b>Chaudhuri{" "}
             </p>{" "}
-            <VscVerifiedFilled className="text-lime-500 " />
+            {/* <VscVerifiedFilled className="text-lime-500 " /> */}
           </div>
           <Image
             className="block rounded-full"
@@ -33,7 +33,7 @@ export default function RootLayout({
   );
 
   const footer = (
-    <div className="border-t border-lime-600 text-center p-4 text-slate-400 text-xs mt-8">
+    <div className="text-center p-4 text-slate-400 text-xs mt-8">
       <p>
         🧑‍💻 Built by Jeet. Source Code on{" "}
         <a

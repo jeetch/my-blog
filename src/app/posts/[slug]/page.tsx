@@ -26,10 +26,10 @@ const PostPage: FC = (props: any) => {
   return (
     <div>
       <div className="my-12 text-center">
-        <h3 className="text-3xl font-bold text-lime-400 mb-2">
+        <h3 className="text-3xl font-bold text-white underline underline-offset-8 decoration-lime-400 decoration-8 mb-2">
           {post.data.title}
         </h3>
-        <p className="text-slate-300">{post.data.date}</p>
+        <p className="text-neutral-400 text-sm mt-4">{post.data.date}</p>
       </div>
 
       <article className="prose prose-invert">
