@@ -8,7 +8,7 @@ interface BannerProps {}
 
 const Banner: FC<BannerProps> = ({}) => {
   return (
-    <div className="relative flex-col sm:flex sm:flex-row gap-2 w-full items-center z-10 shadow-sm text-left  py-4 sm:py-12 px-4 sm:px-12 ">
+    <div className="relative flex-col sm:flex sm:flex-row gap-2 w-full items-center z-10 shadow-sm text-left  py-16 sm:py-12 px-4 sm:px-12 ">
       <Background />
       <Image
         className="mb-8 sm:mb-0 sm:p-6 w-1/3 "
