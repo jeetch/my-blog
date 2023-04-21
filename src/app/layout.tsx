@@ -29,7 +29,7 @@ export default function RootLayout({
           <Link href="https://github.com/jeetch">
             <VscGithub className="h-[20px] w-[20px] text-slate-600 hover:text-lime-400" />
           </Link>
-          <Link href="/">
+          {/* <Link href="/">
             <Image
               className="block rounded-full hover:border-4 hover:border-lime-400 transition"
               height="30"
@@ -37,7 +37,7 @@ export default function RootLayout({
               alt="Avatar"
               src="/images/header.jpg"
             />
-          </Link>
+          </Link> */}
         </div>
       </div>
     </header>
@@ -62,7 +62,7 @@ export default function RootLayout({
       <head />
 
       <body className={` bg-neutral-900 ${font.className}`}>
-        <div className="z-10  mx-auto max-w-2xl px-6">
+        <div className="z-10  mx-auto max-w-3xl px-6">
           {header}
           {children}
           {footer}
