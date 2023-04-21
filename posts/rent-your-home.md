@@ -25,7 +25,5 @@ I found exactly what I was looking for with Antonio, who also runs an awesome Di
 
 **Next13** (app directory and API), **Tailwind** for styling, **MongoDB** for database, **Prisma** (just awesome ORM with Next), deployed on Vercel (hail Vercel ecosystem)
 
-
-
-
+![/images/rent_your_home_stack](/images/rent_your_home_stack.jpeg)
 

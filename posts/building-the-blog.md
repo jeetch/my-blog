@@ -5,6 +5,4 @@ date: "2023-03-30"
 ---
 
 
-
-
-
+![/images/my-blog-stack](/images/my-blog-stack.jpg)
