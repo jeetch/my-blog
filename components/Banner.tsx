@@ -19,6 +19,7 @@ const Banner: FC<BannerProps> = ({}) => {
           ]}
           speed={10}
           repeat={0}
+          cursor={false}
         />
       </h2>
 
