@@ -7,6 +7,12 @@ date: "2023-03-30"
 
 ![/images/my-blog-stack](/images/my-blog-stack.jpg)
 
+Framer motion : https://github.com/frontendfyi/youtube-builds/tree/main/2022-11-11-route-transitions-with-next-app-directory
+
+animated background : https://www.youtube.com/watch?v=Tmkr2kKUEgU&ab_channel=TailwindLabs
+
+8 bit image: 
+
 I have decided to document my coding journey and see where this takes me. As a start I am going to document everything I do which starts with this blog. 
 
 **Blog Idea**

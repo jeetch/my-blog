@@ -3,6 +3,7 @@ import { FC } from "react";
 import Background from "./Background";
 import { TypeAnimation } from "react-type-animation";
 import Image from "next/image";
+import { motion } from "framer-motion";
 
 interface BannerProps {}
 
@@ -10,6 +11,7 @@ const Banner: FC<BannerProps> = ({}) => {
   return (
     <div className="relative flex-col sm:flex sm:flex-row gap-2 w-full items-center z-10 shadow-sm text-left  py-16 sm:py-12 px-4 sm:px-12 ">
       <Background />
+
       <Image
         className="mb-8 sm:mb-0 sm:p-6 w-1/3 "
         height="1000"
@@ -18,10 +20,22 @@ const Banner: FC<BannerProps> = ({}) => {
         src="/images/8bitpix.png"
       />
       <div className="flex w-full sm:w-2/3 flex-col">
-        <h2 className="text-md text-lime-400 ">Hi, I'm Jeet 👋 </h2>
-        <h2 className="text-3xl text-white font-bold shadow-lime-400">
-          {" "}
-          <TypeAnimation
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: 20 }}
+          className="text-md text-lime-400 "
+        >
+          Hi, I'm Jeet 👋{" "}
+        </motion.div>
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0, transition: { delay: 0.3 } }}
+          exit={{ opacity: 0, y: 20 }}
+          className="text-3xl text-white font-bold shadow-lime-400"
+        >
+          I like building websites
+          {/* <TypeAnimation
             sequence={[
               // Same String at the start will only be typed once, initially
               "I like building websites",
@@ -29,17 +43,22 @@ const Banner: FC<BannerProps> = ({}) => {
             speed={10}
             repeat={0}
             cursor={false}
-          />
-        </h2>
+          /> */}
+        </motion.div>
 
-        <p className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0">
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0, transition: { delay: 0.6 } }}
+          exit={{ opacity: 0, y: 20 }}
+          className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0"
+        >
           I'm a data scientist at{" "}
           <a href="https://www.speklesolutions.com" className="hover:underline">
             Spekle
           </a>
           . I aspire to build a lot of useful, cool stuff. I write about my
           journey here..
-        </p>
+        </motion.div>
       </div>
     </div>
   );
