@@ -2,6 +2,8 @@ import Link from "next/link";
 import "./globals.css";
 import Image from "next/image";
 import { VscGithub, VscTwitter, VscVerifiedFilled } from "react-icons/vsc";
+import { BsLinkedin } from "react-icons/bs";
+import { MdEmail } from "react-icons/md";
 import { Inter } from "next/font/google";
 import Background from "../../components/Background";
 const font = Inter({ subsets: ["latin"] });
@@ -23,21 +25,18 @@ export default function RootLayout({
           {/* <VscVerifiedFilled className="text-lime-500 " /> */}
         </div>
         <div className="flex items-center gap-4">
+          <Link href="mailto:jeetch96@gmail.com">
+            <MdEmail className="h-[18px] w-[18px] text-slate-600 hover:text-lime-400" />
+          </Link>
+          <Link href="https://www.linkedin.com/in/jeetch/">
+            <BsLinkedin className="h-[18px] w-[18px] text-slate-600 hover:text-lime-400" />
+          </Link>
           <Link href="https://twitter.com/jeetchaudhuri">
-            <VscTwitter className="h-[20px] w-[20px] text-slate-600 hover:text-lime-400" />
+            <VscTwitter className="h-[18px] w-[18px] text-slate-600 hover:text-lime-400" />
           </Link>
           <Link href="https://github.com/jeetch">
-            <VscGithub className="h-[20px] w-[20px] text-slate-600 hover:text-lime-400" />
+            <VscGithub className="h-[18px] w-[18px] text-slate-600 hover:text-lime-400" />
           </Link>
-          {/* <Link href="/">
-            <Image
-              className="block rounded-full hover:border-4 hover:border-lime-400 transition"
-              height="30"
-              width="30"
-              alt="Avatar"
-              src="/images/header.jpg"
-            />
-          </Link> */}
         </div>
       </div>
     </header>
