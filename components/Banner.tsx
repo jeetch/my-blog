@@ -35,15 +35,6 @@ const Banner: FC<BannerProps> = ({}) => {
           className="text-3xl text-white font-bold shadow-lime-400"
         >
           I like building websites
-          {/* <TypeAnimation
-            sequence={[
-              // Same String at the start will only be typed once, initially
-              "I like building websites",
-            ]}
-            speed={10}
-            repeat={0}
-            cursor={false}
-          /> */}
         </motion.div>
 
         <motion.div
@@ -52,12 +43,11 @@ const Banner: FC<BannerProps> = ({}) => {
           exit={{ opacity: 0, y: 20 }}
           className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0"
         >
-          I'm a data scientist at{" "}
+          I currentlly work as a Data Scientist at{" "}
           <a href="https://www.speklesolutions.com" className="hover:underline">
             Spekle
           </a>
-          . I aspire to build a lot of useful, cool stuff. I write about my
-          journey here..
+          . I love coding and write about my learnings and builds here
         </motion.div>
       </div>
     </div>
