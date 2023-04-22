@@ -1,7 +1,6 @@
 "use client";
 import { FC } from "react";
 import Background from "./Background";
-import { TypeAnimation } from "react-type-animation";
 import Image from "next/image";
 import { motion } from "framer-motion";
 
@@ -22,7 +21,7 @@ const Banner: FC<BannerProps> = ({}) => {
       <div className="flex w-full sm:w-2/3 flex-col">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
+          animate={{ opacity: 1, y: 0, transition: { delay: 0.3 } }}
           exit={{ opacity: 0, y: 20 }}
           className="text-md text-lime-400 "
         >
@@ -30,7 +29,7 @@ const Banner: FC<BannerProps> = ({}) => {
         </motion.div>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0, transition: { delay: 0.3 } }}
+          animate={{ opacity: 1, y: 0, transition: { delay: 0.6 } }}
           exit={{ opacity: 0, y: 20 }}
           className="text-3xl text-white font-bold shadow-lime-400"
         >
@@ -39,11 +38,11 @@ const Banner: FC<BannerProps> = ({}) => {
 
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0, transition: { delay: 0.6 } }}
+          animate={{ opacity: 1, y: 0, transition: { delay: 0.9 } }}
           exit={{ opacity: 0, y: 20 }}
           className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0"
         >
-          I currentlly work as a Data Scientist at{" "}
+          I currently work as a Data Scientist at{" "}
           <a href="https://www.speklesolutions.com" className="hover:underline">
             Spekle
           </a>
