@@ -46,7 +46,8 @@ const Banner: FC<BannerProps> = ({}) => {
           <a href="https://www.speklesolutions.com" className="hover:underline">
             Spekle
           </a>
-          . I love coding and write about my learnings and builds here
+          . I love data, design and code. I write about my learnings and builds
+          here ✏️
         </motion.div>
       </div>
     </div>
