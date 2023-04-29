@@ -1,6 +1,6 @@
 ---
 title: "Full-Stack Home Rental Website"
-subtitle: "Full stack app to rent or book homes"
+subtitle: "Built my first Next full stack app to rent or book homes"
 date: "2023-04-12"
 ---
 

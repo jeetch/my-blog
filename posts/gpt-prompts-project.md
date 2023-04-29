@@ -1,6 +1,6 @@
 ---
-title: "GPT Prompts Project: Explore and Share Free GPT Prompts"
-subtitle: "We are an open platform for sharing GPT-optimized prompts"
+title: "Simple NextJS Website to Explore and Share Free GPT Prompts"
+subtitle: "GPT Prompts Prject is an open platform for sharing GPT-optimized prompts"
 date: "2023-04-29"
 ---
 
