@@ -1,6 +1,6 @@
 ---
-title: "Simple NextJS Website to Explore and Share Free GPT Prompts"
-subtitle: "GPT Prompts Prject is an open platform for sharing GPT-optimized prompts"
+title: "Explore and Share Free GPT Prompts: GPT Prompts Project"
+subtitle: "An open platform for sharing GPT-optimized prompts"
 date: "2023-04-29"
 ---
 
@@ -12,7 +12,11 @@ date: "2023-04-29"
 
 **Source Code:** https://github.com/jeetch/gpt-prompts-project 💻
 
-**Background: 🌟**
+**Background:**
 
 Made my first own production website as a personal project on Next : GPT Prompts Project.  
 The idea was to create a simple and user-friendly website that would showcase the creativity and diversity of ChatGPT prompts. Anyone can submit a prompt on the website (after creating an account) and others can browse through them. You can also "favorite" the prompts you like the most and see your own favorites list.
+
+**Stack:**
+
+![images/gpt-prompts-project-stack](/images/gpt-prompts-project-stack.jpg)
