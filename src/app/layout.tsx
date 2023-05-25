@@ -64,6 +64,7 @@ export default function RootLayout({
         <div className="z-10  mx-auto max-w-3xl px-6">
           {header}
           {children}
+          {/* <Chat /> */}
           {footer}
         </div>
       </body>
