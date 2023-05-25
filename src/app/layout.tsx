@@ -1,11 +1,10 @@
 import Link from "next/link";
 import "./globals.css";
-import Image from "next/image";
 import { VscGithub, VscTwitter, VscVerifiedFilled } from "react-icons/vsc";
 import { BsLinkedin } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import { Inter } from "next/font/google";
-import Background from "../../components/Background";
+import Chat from "../components/Chat";
 const font = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({
@@ -60,11 +59,11 @@ export default function RootLayout({
     <html lang="en">
       <head />
 
-      <body className={` bg-neutral-900 ${font.className}`}>
+      <body className={` bg-neutral-900 ${font.className} relative`}>
         <div className="z-10  mx-auto max-w-3xl px-6">
           {header}
           {children}
-          {/* <Chat /> */}
+          <Chat />
           {footer}
         </div>
       </body>
