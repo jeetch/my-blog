@@ -15,14 +15,14 @@ const Chat: FC = ({}) => {
         <AccordionItem value="item-1">
           <div className="fixed right-8 bottom-8 w-60 bg-neutral-800 border border-neutral-600 rounded-md">
             <div className="w-full h-full flex flex-col">
-              <AccordionTrigger className="px-6">
+              <AccordionTrigger className="px-6 border-b border-neutral-600">
                 <ChatHeader />
               </AccordionTrigger>
               <AccordionContent>
                 <div className="flex flex-col h-80 bg-neutral-800">
                   In Development!
+                  <ChatInput className="px-2" />
                 </div>
-                <ChatInput />
               </AccordionContent>
             </div>
           </div>

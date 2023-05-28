@@ -12,6 +12,14 @@ module.exports = {
     extend: {
       
       keyframes: {
+        "accordion-down": {
+          from: { height: 0 },
+          to: { height: "var(--radix-accordion-content-height)" },
+        },
+        "accordion-up": {
+          from: { height: "var(--radix-accordion-content-height)" },
+          to: { height: 0 },
+        },
         blob: {
           "0%": {
             transform: "translate(0, 0) scale(1)",
@@ -32,8 +40,10 @@ module.exports = {
       },
       animation: {
         blob: "blob 4s infinite",
+        "accordion-down": "accordion-down 0.2s ease-out",
+        "accordion-up": "accordion-up 0.2s ease-out",
       },
     },
   },
-  plugins: [require('@tailwindcss/typography'),],
+  plugins: [require('@tailwindcss/typography'),require('@tailwindcss/forms')],
 }
