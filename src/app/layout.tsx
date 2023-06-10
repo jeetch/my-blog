@@ -5,6 +5,7 @@ import { BsLinkedin } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import { Inter } from "next/font/google";
 import Chat from "../components/Chat";
+import Providers from "@/components/Providers";
 const font = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({
@@ -60,12 +61,14 @@ export default function RootLayout({
       <head />
 
       <body className={` bg-neutral-900 ${font.className} relative`}>
-        <div className="z-10  mx-auto max-w-3xl px-6">
-          {header}
-          {children}
-          <Chat />
-          {footer}
-        </div>
+        <Providers>
+          <div className="z-10  mx-auto max-w-3xl px-6">
+            {header}
+            {children}
+            <Chat />
+            {footer}
+          </div>
+        </Providers>
       </body>
     </html>
   );
