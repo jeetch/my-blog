@@ -13,7 +13,7 @@ const ChatInput: FC<ChatInputProps> = ({ className, ...props }) => {
 
   const { mutate: sendMessage, isLoading } = useMutation({
     mutationFn: async (message: Message) => {
-      const response = await fetch("api/messages", {
+      const response = await fetch("api/message", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: "hello" }),
@@ -34,15 +34,16 @@ const ChatInput: FC<ChatInputProps> = ({ className, ...props }) => {
           rows={2}
           maxRows={4}
           onKeyDown={(e) => {
-            e.preventDefault();
+            if (e.key == "Enter" && !e.shiftKey) {
+              e.preventDefault();
 
-            const message = {
-              id: nanoid(),
-              isUserMessage: true,
-              text: input,
-            };
-
-            sendMessage(message);
+              const message = {
+                id: nanoid(),
+                isUserMessage: true,
+                text: input,
+              };
+              sendMessage(message);
+            }
           }}
           value={input}
           onChange={(e) => setInput(e.target.value)}
