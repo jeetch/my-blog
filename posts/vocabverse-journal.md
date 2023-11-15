@@ -28,7 +28,7 @@ I've decided to document my VocabVerse journey here:
 
 11/14: Reflecting on the relatively slow progress last week, I'm keen to follow a tutorial and start building more rigorously. React-force graph seems like the right choice. Also, inspired by the Word of the Day app, I plan to incorporate beautiful visuals using Stability AI. Need to explore how Backdrop can aid in this.
 
-11/15: Okay we are going to continue building out the ui with Josh. What a video, built out a nice landing page, added authentication using Kinde. Also tested Dall-E outputs for images and sample sentences, will test stability as well. Want to get to developing the dashbaord by weekend. Will try build out the other parts and setup a backend by weekend!
+11/15: Okay we are going to continue building out the ui with Josh. What a video, built out a nice landing page, added authentication using Kinde. Also tested Dall-E outputs for images and sample sentences, will test stability as well. Want to get to developing the dashbaord by weekend. Will try build out the other parts and setup a backend by weekend! Pushing changes to a new repo - vacabverse-v2. Once I get to the dashboard, will merge both the repos. (not the best practice)
 
 <img src="image-1.png" class="w-64 rounded-xl">
 
