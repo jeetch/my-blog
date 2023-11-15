@@ -1,25 +1,23 @@
 ---
-title: "Most useful VSCode Tips from YouTubers"
+title: "Useful VSCode Tips from YouTube Tutorials ✅"
 subtitle: "Just my compilation of tips and tricks coders like WebDevCody, JoshlikesCoding, Theo etc."
-date: "2023-11-15"
+date: "2023-10-15"
 
 ---
 
+This is going to be a evolving document with shortcuts I want to keep a note of from various youtube tutorials. 📓
 
-Compilation of Joshcodes Tips:
+**Compilation of VSCode Tips:**
 
  - Use pnpm its much faster and takes lesser space than npm 
  - Set `emmet balance:outwards` as `ctrl+M` to select the whole html inside a tag use
  - `LShift ctrl + P` when auto import doesnt work and select developer reload window, should work 90% of the time
  - `shift alt arrow down` - copy the same line of code below
- - Select a word  and then press  `Command ⌘ + D`  as many times as you need. This adds a cursor on the the same wor (if it exists) selected which every press of  `Cmd + D`  and will allow you to change that specific word in al places at the same time. Pretty neat!
+ - Select a word  and then press  `ctrl + D`  and will allow you to change that specific word in all places at the same time. Pretty neat!
 
+ 
 
-
-
-
-
-Shadcn Settings:
+**Shadcn Settings:**
 
 
 ![Alt text](image.png)
