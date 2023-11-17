@@ -32,3 +32,14 @@ I've decided to document my VocabVerse journey here:
 
 <img src="\images\vocabvers-1115.png" class="w-64 rounded-xl">
 
+**11/16:** Okay this is awkward. I was coding last night and I just went online and started looking for user reactions to how everyone studies for the GRE and I'm realising that the vocabulary building market is just too saturated and there are some very beautiful apps out there. No doubt my app might be better but I want to make something that I myself will use but also useful to others. One thing I am using LLMs for is my MBA prep and I had this idea long back of helping students navigate through this jhourney for minimum price. MBA is just super expensive, everything from consultants to application costs, so if I can proiovide a service to just help people navigate through this journey, liike a perosnal MBA AI integrated notion, that would actually be very helpful for me as well and an interesting project to build. Let's see, will continue building this product and backend but damn it, I might pivot. Let's see. Also looked into the event sponsors and I think pxie can be perfect to build a chatbot.
+
+https://shop.careerprotocol.com/ai-powered-school-scouting-toolkit/
+
+
+
+**11/17:**  So I had applied to Y combinator with this nascent idea but got my rejection letter today! Great, but I have an idea now which might actually get me excited to work on now. I AM GOING TO MAKE A GAME!! The MBA idea is not bad to be honest, but given all the frustrations in my real-life regarding applications, I dont want to spend more time on it. I want to make something fun and omg as fate would have it I stumbled upon this video : https://www.youtube.com/watch?v=yP5DKzriqXA&t=6902s&ab_channel=ChrisCourses
+
+How do such legends exist! Will build out the idea soon! Actually excited about this now.
+
+![Alt text](image-2.png)
