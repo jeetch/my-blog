@@ -50,6 +50,7 @@ How do such legends exist! Will build out the idea soon! Actually excited about 
 <img src="\images\pivot.gif" class="w-48 rounded-xl">
 
 
-We are building vocabverse the game now 😎
+We are building vocabverse the game now 😎 Also got in touch with Stability team who were kind enough to send me $50 credits for their platform. The aim is to create the basic game in the next 2 days and then work on building the model to create custom ~~pokemons~~ 'wordlings' 😅 Gotta catch'em all! 
 
 <img src="\images\vocabvesrse-game-111824.png" class="w-64 rounded-xl">
+
