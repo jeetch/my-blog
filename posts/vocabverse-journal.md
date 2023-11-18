@@ -47,6 +47,9 @@ How do such legends exist! Will build out the idea soon! Actually excited about 
 
 **11/18:** PIVOTT!
 
+<img src="\images\pivot.gif" class="w-48 rounded-xl">
+
+
 We are building vocabverse the game now 😎
 
 <img src="\images\vocabvesrse-game-111824.png" class="w-64 rounded-xl">
