@@ -42,4 +42,11 @@ https://shop.careerprotocol.com/ai-powered-school-scouting-toolkit/
 
 How do such legends exist! Will build out the idea soon! Actually excited about this now.
 
-![Alt text](image-2.png)
+<img src="\images\vocabvesrse-game-character-111724.png" class="w-64 rounded-xl">
+
+
+**11/18:** PIVOTT!
+
+We are building vocabverse the game now 😎
+
+<img src="\images\vocabvesrse-game-111824.png" class="w-64 rounded-xl">
