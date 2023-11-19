@@ -57,3 +57,11 @@ We are building vocabverse the game now 😎 Also got in touch with Stability te
 **11/19:** Ughhh, I just want to deploy this in my react app and although it worked on my local getting this stupid Kinde auth error which is bothering me so much that i spent the last 45 mins on it. Reached out for help on the joshtriescoding discord 😅 I really hope I can complete this build on time, gonna be a busy day with the India world cup finals so might not make much progress today. Also need to upgrade landing page and generate a cool pixelart logo!
 
 <img src="\images\kinde-error.png" class="w-64 rounded-xl">
+
+Update: You gotto be kidding me -_- they updated a new version of the SDK v2 which has different syntax. The quick start wasn't updated but kudos for their support eam to reach out on a sunday (thanks andre!). Well lesson learnt! **Check latest versions and docs.**
+
+<img src="\images\kinde-chat.png" class="w-48 rounded-xl">
+
+
+
+
