@@ -54,3 +54,6 @@ We are building vocabverse the game now 😎 Also got in touch with Stability te
 
 <img src="\images\vocabvesrse-game-111824.png" class="w-64 rounded-xl">
 
+**11/19:** Ughhh, I just want to deploy this in my react app and although it worked on my local getting this stupid Kinde auth error which is bothering me so much that i spent the last 45 mins on it. Reached out for help on the joshtriescoding discord 😅 I really hope I can complete this build on time, gonna be a busy day with the India world cup finals so might not make much progress today. Also need to upgrade landing page and generate a cool pixelart logo!
+
+<img src="\images\kinde-error.png" class="w-64 rounded-xl">
