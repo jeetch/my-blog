@@ -63,5 +63,8 @@ Update: You gotto be kidding me -_- they updated a new version of the SDK v2 whi
 <img src="\images\kinde-chat.png" class="w-48 rounded-xl">
 
 
+**11/20:** Okay no time this week! I am going to work on developing our wordlings today. Was looking into fine-tuning Stable Diffusion XL using open source datasets. Luckily pokemon datasets are pretty common, found one really nice pokemon pixel art dataset, will credit the author. Downloaded ComfyUI as started playing around with it but finally decided to go with  Replicate beacue I dont have time and want to build some proof of concept, and I have worked with replicate before. Let's hope for the best.
+
+
 
 
