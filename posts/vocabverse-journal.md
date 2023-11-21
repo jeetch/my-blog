@@ -66,5 +66,11 @@ Update: You gotto be kidding me -_- they updated a new version of the SDK v2 whi
 **11/20:** Okay no time this week! I am going to work on developing our wordlings today. Was looking into fine-tuning Stable Diffusion XL using open source datasets. Luckily pokemon datasets are pretty common, found one really nice pokemon pixel art dataset, will credit the author. Downloaded ComfyUI as started playing around with it but finally decided to go with  Replicate beacue I dont have time and want to build some proof of concept, and I have worked with replicate before. Let's hope for the best.
 
 
+Copy the Raw URL: The URL in the address bar while viewing the raw file is the direct link you need. It should look something like https://raw.githubusercontent.com/user/repo/branch/path/to/wordlings_dataset_v1.zip.
 
 
+**11/21:** Okay so I was up late last night trying to perfect the whole wordlings generation process and we have a GPT bot to generate prompts and meanings, and a stable diffusion model to generate them. Here's our Gen 1 wordlings, still feel the model is overfitting on the training data, need to fine tune a little
+
+<img src="\images\wordling1.png" class="w-24 rounded-xl">
+<img src="\images\wordling2.png" class="w-24 rounded-xl">
+<img src="\images\wordling3.png" class="w-24 rounded-xl">
