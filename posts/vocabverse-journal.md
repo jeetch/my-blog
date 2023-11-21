@@ -74,3 +74,8 @@ Copy the Raw URL: The URL in the address bar while viewing the raw file is the d
 <img src="\images\wordling1.png" class="w-24 rounded-xl">
 <img src="\images\wordling2.png" class="w-24 rounded-xl">
 <img src="\images\wordling3.png" class="w-24 rounded-xl">
+
+
+**11/22:** Busy day at work todya, couldnt make much progress but working on coding up the game now. Created boundaries and logics. Coding a game is fun!
+
+<img src="\images\vocabverse-2.png" class="w-24 rounded-xl">
