@@ -82,5 +82,14 @@ Copy the Raw URL: The URL in the address bar while viewing the raw file is the d
 
 
 
-**11/23 - 11/25:** Friends wedding break, need to buck up and work from tomorrow and get this done. Let's go
+**11/23 - 11/26:** Friends wedding break, need to buck up and work from tomorrow and get this done. Flight got delayed on 26th, went through extreme turbulence somehow reached back safe, 2 days to go! Let's go
+
+**11/27 - 11/29** OMFG WE SOMEHOW DID IT! I  did not even get time to update the blog over the last couple of days. It's just been intense coding sessions. NextJS randomly gave client side errors and chunks errors at the last minute, downgraded to 14.0.0. Kinde gave me callback URI errors at the last minute, had to create a new Kinde url and update. Used Loom for the first time to create a demo which I completed an hour before the deadline. This was just crazy for me. I know I could have done much much more but I hope the team sees the potential in the idea. 
+
+Final Demo Video here : https://www.youtube.com/watch?v=xukst4crr20&ab_channel=Vocabverse
+
+Final URL : https://www.vocabverse.games/
+(ignore lots of bugs and no responsiveness at all)
+
+<img src="\images\vocabverse-2.png" class="w-24 rounded-xl">
 
