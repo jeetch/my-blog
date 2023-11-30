@@ -91,5 +91,5 @@ Final Demo Video here : https://www.youtube.com/watch?v=xukst4crr20&ab_channel=V
 Final URL : https://www.vocabverse.games/
 (ignore lots of bugs and no responsiveness at all)
 
-<img src="\images\vocabverse-2.png" class="w-24 rounded-xl">
+<img src="\images\build-v2-certificate.png" class="w-24 rounded-xl">
 
