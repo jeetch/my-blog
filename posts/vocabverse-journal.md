@@ -5,10 +5,21 @@ date: "2023-11-06"
 
 ---
 
+**FINAL OUTPUT (after pivoting updated 11/29):**
+
+**Vocabverse:** A Pokemon inspired RPG game where you generate wordlings based on words you want to memorize and learn. These get added to the game and you can collect these wordlings and play the game to memorize them. 
+
+<img src="\images\Thumbnail.png" class="w-64 rounded-xl">
+
+Demo:  https://www.youtube.com/watch?v=xukst4crr20&ab_channel=Vocabverse
+
+
+Website: https://www.vocabverse.games/
+(ignore lots of bugs and no responsiveness at all)
 
 Hello Everyone!
 
-I'm embarking on a journey to take the GRE, which has inspired me to develop an app called VocabVerse. Building this as a part of the 4-week accelerator program, [backdrop build](https://backdropbuild.com/). 
+I'm embarking on a journey to take the GRE, which has inspired me to develop an app called VocabVerse. Building this as a part of the 4-week accelerator program, [backdrop build](https://backdropbuild.com/). The idea is to create a vocabulary app where we create a AI-assisted graph view instead of traditional flashcards to group semantically similar words together and help in better vocabulary learning.
 
 Inspirations: I've drawn inspiration from platforms like Obsidian, and the Word of the Day app.
 
@@ -22,7 +33,7 @@ I've decided to document my VocabVerse journey here:
 
 **11/10:** Had an enlightening conversation with two fellow builders during a talk. One is developing a multilingual MBA program app using open-source materials, and the other is working on a crypto-based health records system for privacy-concerned doctors. The latter, though a bit complex and proprietary, was particularly intriguing. One of them uses Obsidian, which aligns well with my project. It's time to get cracking on the demo.
 
-**11/11:** Watched this insightful video: [Link to Steve's Video on Builder.io]. It reinforced my belief in using AI judiciously – it's crucial to distinguish my product from something that could be generically created by OpenAI. It's not just about feeding data into a black box; it's about creating something unique and tailored.
+**11/11:** Watched this insightful video: https://www.youtube.com/watch?v=bRFLE9qi3t8&t. It reinforced my belief in using AI judiciously – it's crucial to distinguish my product from something that could be generically created by OpenAI. It's not just about feeding data into a black box; it's about creating something unique and tailored.
 
 **11/12:** Completed the first week's update!
 
