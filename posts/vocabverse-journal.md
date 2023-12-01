@@ -17,9 +17,13 @@ Demo:  https://www.youtube.com/watch?v=xukst4crr20&ab_channel=Vocabverse
 Website: https://www.vocabverse.games/
 (ignore lots of bugs and no responsiveness at all)
 
+
+
+**Journal**
+
 Hello Everyone!
 
-I'm embarking on a journey to take the GRE, which has inspired me to develop an app called VocabVerse. Building this as a part of the 4-week accelerator program, [backdrop build](https://backdropbuild.com/). The idea is to create a vocabulary app where we create a AI-assisted graph view instead of traditional flashcards to group semantically similar words together and help in better vocabulary learning.
+I'm embarking on a journey to take the GRE when Rapha reached out to me regarding an accelerator program, which has inspired me to develop an app called VocabVerse. Building this as a part of the 4-week accelerator program, [backdrop build](https://backdropbuild.com/). The idea is to create a vocabulary app where we create a AI-assisted graph view instead of traditional flashcards to group semantically similar words together and help in better vocabulary learning.
 
 Inspirations: I've drawn inspiration from platforms like Obsidian, and the Word of the Day app.
 
