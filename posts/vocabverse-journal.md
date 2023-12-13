@@ -1,21 +1,24 @@
 ---
 title: "Building VocabVerse: Daily Journal"
-subtitle: "My attempt at building a tool to help me study for GRE and take part in backdropbuild"
+subtitle: "Building a custom pokemon generator using langchain + atable diffusion to improve vocabulary for BackdropBuild"
 date: "2023-11-06"
 
 ---
 
 **FINAL OUTPUT (after pivoting updated 11/29):**
 
-**Vocabverse:** A Pokemon inspired RPG game where you generate wordlings based on words you want to memorize and learn. These get added to the game and you can collect these wordlings and play the game to memorize them. 
+**Vocabverse:** Generate custom pokemon based on words you want to learn!
 
 <img src="\images\Thumbnail.png" class="w-64 rounded-xl">
+
+<img src="\images\Amiabunny.png" class="w-64 rounded-xl">
+
+**Stack:** NextJS, OpenAI, Langchain, Fine-tuned SDXL, Replicate..
 
 Demo:  https://www.youtube.com/watch?v=xukst4crr20&ab_channel=Vocabverse
 
 
-Website: https://www.vocabverse.games/
-(ignore lots of bugs and no responsiveness at all)
+Website: https://www.vocabverse.games/ (contact for demo credentials)
 
 
 
