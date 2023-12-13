@@ -1,6 +1,6 @@
 ---
-title: "Building VocabVerse: Daily Journal"
-subtitle: "Building a custom pokemon generator using langchain + atable diffusion to improve vocabulary for BackdropBuild"
+title: "Building VocabVerse! (Journal)"
+subtitle: "Building a custom pokemon generator using langchain + stable diffusion to improve vocabulary"
 date: "2023-11-06"
 
 ---
