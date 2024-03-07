@@ -19,6 +19,12 @@ This is going to be a evolving document with shortcuts I want to keep a note of 
 
  - Select a word  and then press  `ctrl + D`  and will allow you to change that specific word in all places at the same time. Pretty neat!
 
+ - If using copilot use ctrl/cmd+I for inline copilot and set any key eg. 'tab' as accept suggestion
+
+Click File -> Preferences -> Keyboard shortcuts.
+Search for 'editor.action.inlineSuggest.commit' (command that accepts the Copilot suggestion).
+Double click it and assign new shortcut, for example right arrow key.
+
  
 
 **Shadcn Settings:**
