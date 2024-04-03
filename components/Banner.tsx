@@ -42,7 +42,7 @@ const Banner: FC<BannerProps> = ({}) => {
           exit={{ opacity: 0, y: 20 }}
           className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0"
         >
-          I am an indie-hacker and currently doint my MBA at McCombs School of Business, UT Austin
+          I am currently doing my MBA at McCombs School of Business, UT Austin
           . I love data, design and code. I write about my learnings and builds
           here ✏️
         </motion.div>
