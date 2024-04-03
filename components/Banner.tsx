@@ -42,10 +42,7 @@ const Banner: FC<BannerProps> = ({}) => {
           exit={{ opacity: 0, y: 20 }}
           className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0"
         >
-          I currently work as a Data Scientist at{" "}
-          <a href="https://www.speklesolutions.com" className="hover:underline">
-            Spekle
-          </a>
+          I am an indie-hacker and currently doint my MBA at McCombs School of Business, UT Austin
           . I love data, design and code. I write about my learnings and builds
           here ✏️
         </motion.div>
