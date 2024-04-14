@@ -42,8 +42,7 @@ const Banner: FC<BannerProps> = ({}) => {
           exit={{ opacity: 0, y: 20 }}
           className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0"
         >
-          Will be attempting to become the Master of Business at McCombs School of Business, UT Austin. 👨‍🎓 I love data, design and code. 👨‍💻 I write about my learnings and builds
-          here ✏️
+          Mostly Harmless. MBA Candidate at McCombs School of Business, University of Texas Austin 🤘 Love data, design and code 👨‍💻 
         </motion.div>
       </div>
     </div>
