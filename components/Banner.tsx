@@ -50,3 +50,4 @@ const Banner: FC<BannerProps> = ({}) => {
 };
 
 export default Banner;
+
