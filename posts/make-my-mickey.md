@@ -1,6 +1,6 @@
 ---
-title: "Generating 'The iconic mouse' on Dall-E"
-subtitle: "Trying to get Dall-E to create images of Mickey Mouse!"
+title: "Generating 'The iconic mouse' on Dall-E 🐭"
+subtitle: "Trying to get Dall-E to create images of Mickey Mouse"
 date: "2024-04-26"
 ---
 

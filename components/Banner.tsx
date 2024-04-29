@@ -42,7 +42,7 @@ const Banner: FC<BannerProps> = ({}) => {
           exit={{ opacity: 0, y: 20 }}
           className="text-slate-400 text-sm pt-2 mb-6 sm:mb-0"
         >
-          MBA Candidate at McCombs School of Business, University of Texas at Austin 🤘 Love data, design and code 👨‍💻 
+          MBA Candidate at McCombs School of Business, University of Texas at Austin 🤘 Love data, design and code 👨‍💻 Data Scientist with 5+ years of experience in healthcare consulting 💼
         </motion.div>
       </div>
     </div>
