@@ -14,7 +14,7 @@ So - this evolving blog series is just me solving cases from popular resources I
 
 Link to the case:  [https://www.youtube.com/watch?v=gTi8qAVGeCo](https://www.youtube.com/watch?v=gTi8qAVGeCo) (credits: Prepmatter)
 
-#### Introduction :
+#### Problem Statement :
 We are discussing an Indonesian cement company whose profit margins are down from 8% to 2%. They want to generate $500 Mn in the next 5 years.
 
 #### My Notes :
