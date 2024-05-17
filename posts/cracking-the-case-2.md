@@ -13,11 +13,11 @@ This case study was discussed as a part of the Strategy& pre-MBA program. It was
 The client is the CEO of a newly established public transport entity in a major city in the Middle East. They are responsible for developing and operating the first intra-city metro service. Your team is tasked to assess the feasibility of such project.
 
 #### My Notes :
-![notes/case-2/case-2-Page1.png](/notes/case-2/case-2-Page1.png)
-![notes/case-2/case-2-Page2.png](/notes/case-2/case-2-Page2.png)
-![notes/case-2/case-2-Page3.png](/notes/case-2/case-2-Page3.png)
-![notes/case-2/case-2-Page3.png](/notes/case-2/case-2-Page4.png)
-![notes/case-2/case-2-Page3.png](/notes/case-2/case-2-Page5.png)
+![notes/case-2/case-2-Page1.png](/notes/case-2/Case-2-Page1.png)
+![notes/case-2/case-2-Page2.png](/notes/case-2/Case-2-Page2.png)
+![notes/case-2/case-2-Page3.png](/notes/case-2/Case-2-Page3.png)
+![notes/case-2/case-2-Page3.png](/notes/case-2/Case-2-Page4.png)
+![notes/case-2/case-2-Page3.png](/notes/case-2/Case-2-Page5.png)
 
 #### Takeaways :
 - Rephrase the problem statement in the start of the case, but only the essential parts so that you know you are clear
