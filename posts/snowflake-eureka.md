@@ -1,5 +1,5 @@
 ---
-title: "Snowflake Arctic x Streamlit Hackathon : Building Eureka!"
+title: "👨‍💻 Snowflake Arctic x Streamlit Hackathon : Building Eureka!"
 subtitle: "Let's build an app to improve your app ideas"
 date: "2024-05-22"
 ---

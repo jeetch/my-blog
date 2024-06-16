@@ -1,5 +1,5 @@
 ---
-title: "Cracking the Case 2 🔎: Building a Metro in the Middle East 🚊"
+title: "🔎 Cracking the Case 2: Building a Metro in the Middle East 🚊"
 subtitle: "Discussed as a part of the Strategy& Pre-MBA program"
 date: "2024-05-17"
 ---

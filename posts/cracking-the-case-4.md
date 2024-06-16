@@ -1,5 +1,5 @@
 ---
-title: "Cracking the Case 4 🔎: CandyCo Wants to Increase Revenue"
+title: "🔎 Cracking the Case 4: CandyCo Wants to Increase Revenue"
 subtitle: "Bain example case from management consulted"
 date: "2024-06-06"
 ---

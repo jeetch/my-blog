@@ -1,5 +1,5 @@
 ---
-title: "Cracking the Case 3 🔎: Iced coffee launch by BevarageCo"
+title: "🔎 Cracking the Case 3: Iced coffee launch by BevarageCo"
 subtitle: "Mckinsey case from management consulted"
 date: "2024-06-03"
 ---

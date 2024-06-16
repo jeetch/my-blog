@@ -1,5 +1,5 @@
 ---
-title: "Cracking the Case 1 🔎: Cement Company Losing Profits 📉"
+title: "🔎 Cracking the Case 1: Cement Company Losing Profits 📉"
 subtitle: "Blog series with case study solutions, my notes and takeaways!"
 date: "2024-05-03"
 ---
