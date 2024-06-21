@@ -6,6 +6,8 @@ import { BsLinkedin } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import { Inter } from "next/font/google";
 import Background from "../../components/Background";
+import { Analytics } from '@vercel/analytics/react';
+
 const font = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({
@@ -66,6 +68,7 @@ export default function RootLayout({
           {children}
           {footer}
         </div>
+        <Analytics />
       </body>
     </html>
   );
