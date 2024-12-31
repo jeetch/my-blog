@@ -1,5 +1,5 @@
 ---
-title: "Why I’m Excited About the Future of Wearables"
+title: "👀 Why I’m Excited About the Future of Wearables"
 subtitle: "Insights from a professional glasses wearer 👓 and hologram enthusiast"
 date: "2024-12-26"
 ---
