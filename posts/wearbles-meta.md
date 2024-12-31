@@ -18,7 +18,7 @@ I was an early adopter of smartwatches and remember wearing the early Asus Zenwa
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <img src="/images/smart-watch.png" alt="Smartwatches in 2017" style="width:30%; height:auto;">
-  <p style="text-align: center; font-size: 0.75rem; color: gray;">Asus Zentwatch 2 and Samsung Galaxy Active 2 from 2016</p> 
+  <p style="text-align: center; font-size: 0.75rem; color: gray;">Asus Zentwatch and Samsung Galaxy Active 2 from 2016</p> 
 </div>
 
 
