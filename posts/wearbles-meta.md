@@ -26,7 +26,7 @@ As a hardcore Garmin user now, I have to say that apart from the running feature
 
  1. The Market Already Exists! 
  
- There are 4 biliion eyeglass wearers worldwide and 66% of adults use some form of vision correction. Many of these are people like me, who wear glasses daily. As an avid glasses wearer, I don’t mind spending on glasses because I know I’ll use them daily. If smart glasses can blend into my life seamlessly and add cool functionalities without requiring constant charging — or even allow me to continue using them as regular glasses after the battery dies — it’s a huge advantage and I will be willing to atleast try it out. 
+ There are 4 biliion eyeglass wearers worldwide and 66% of adults in the US use some form of vision correction. Many of these are people like me, who wear glasses daily. As an avid glasses wearer, I don’t mind spending on glasses because I know I’ll use them daily. If smart glasses can blend into my life seamlessly and add cool functionalities without requiring constant charging — or even allow me to continue using them as regular glasses after the battery dies — it’s a huge advantage and I will be willing to atleast try it out. 
 
  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <img src="/images/glasses-personal.png" alt="Smartwatches in 2017" style="width:40%; height:auto;">
@@ -42,7 +42,7 @@ As a hardcore Garmin user now, I have to say that apart from the running feature
 
  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <img src="/images/lenskart.png" alt="Smartwatches in 2017" style="width:60%; height:auto;">
-  <p style="text-align: center; font-size: 0.75rem; color: gray;">Bollywood Actors promoting it's 'stylish' to switch glasses Source: Lenskart</p> 
+  <p style="text-align: center; font-size: 0.75rem; color: gray;">Bollywood Actors promoting it's 'stylish' glasses Source: Lenskart</p> 
 </div>
  
  
